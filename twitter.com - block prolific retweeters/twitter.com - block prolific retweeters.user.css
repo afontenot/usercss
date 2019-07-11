@@ -1,0 +1,5 @@
+@-moz-document domain("twitter.com") {
+div[data-retweeter="BlackSocialists"] {
+    display: none !important;
+}
+}

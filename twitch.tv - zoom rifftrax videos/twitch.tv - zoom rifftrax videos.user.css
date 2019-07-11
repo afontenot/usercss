@@ -1,0 +1,5 @@
+@-moz-document url-prefix("https://www.twitch.tv/rifftrax") {
+div.player-video > video {
+    transform: scale(1.2);
+}
+}
