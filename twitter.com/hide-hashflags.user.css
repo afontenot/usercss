@@ -1,17 +1,17 @@
 /* ==UserStyle==
-@name           twitter.com - block prolific retweeters
+@name           twitter.com - hide hashflags
 @namespace      github.com/openstyles/stylus
 @version        1.0.0
 @homepageURL    https://github.com/afontenot/usercss
 @license        GPL3-or-later
-@description    Hide retweets from specific Twitter users
+@description    Hide emoji next to hashtags (hashflags) on Twitter
 @author         Adam Fontenot (https://github.com/afontenot)
 @preprocessor   default
-==/UserStyle */
+==/UserStyle== */
 
 
 @-moz-document domain("twitter.com") {
-div[data-retweeter="BlackSocialists"] {
-    display: none !important;
+.twitter-hashflag, .trend-item .Emoji {
+    display: none;
 }
 }
