@@ -1,12 +1,13 @@
 /* ==UserStyle==
-@name           twitch.tv - mirror video for reverse-grav MM2 levels
+@name           twitch.tv - mirror video 
 @namespace      github.com/openstyles/stylus
 @version        1.0
 @homepageURL    https://github.com/afontenot/usercss
-@updateURL      https://raw.githubusercontent.com/afontenot/usercss/master/twitch.tv - mirror video for reverse-grav MM2 levels/twitch.tv - mirror video for reverse-grav MM2 levels.user.css
 @license        GPL3-or-later
+@author         Adam Fontenot (https://github.com/afontenot)
+@description    flip video vertically, for reverse-grav MM2 levels
 @preprocessor   default
-==/UserStyle */
+==/UserStyle== */
 
 
 @-moz-document domain("twitch.tv") {

@@ -7,7 +7,7 @@
 @description    Use Twemoji font on Google Hangouts
 @author         Adam Fontenot (https://github.com/afontenot)
 @preprocessor   default
-==/UserStyle */
+==/UserStyle== */
 
 @-moz-document domain("hangouts.google.com") {
 span[data-emo] > div {

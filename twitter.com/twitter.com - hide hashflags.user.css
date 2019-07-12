@@ -3,8 +3,9 @@
 @namespace      github.com/openstyles/stylus
 @version        1.0
 @homepageURL    https://github.com/afontenot/usercss
-@updateURL      https://raw.githubusercontent.com/afontenot/usercss/master/twitter.com - hide hashflags/twitter.com - hide hashflags.user.css
 @license        GPL3-or-later
+@description    Hide emoji next to hashtags (hashflags) on Twitter
+@author         Adam Fontenot (https://github.com/afontenot)
 @preprocessor   default
 ==/UserStyle */
 

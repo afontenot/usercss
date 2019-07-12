@@ -3,8 +3,9 @@
 @namespace      github.com/openstyles/stylus
 @version        1.0
 @homepageURL    https://github.com/afontenot/usercss
-@updateURL      https://raw.githubusercontent.com/afontenot/usercss/master/twitter.com - block prolific retweeters/twitter.com - block prolific retweeters.user.css
 @license        GPL3-or-later
+@description    Hide retweets from specific Twitter users
+@author         Adam Fontenot (https://github.com/afontenot)
 @preprocessor   default
 ==/UserStyle */
 
