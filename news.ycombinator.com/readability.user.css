@@ -3,10 +3,11 @@
 @namespace      github.com/openstyles/stylus
 @version        1.0
 @homepageURL    https://github.com/afontenot/usercss
-@updateURL      https://raw.githubusercontent.com/afontenot/usercss/master/hacker news - more readable/hacker news - more readable.user.css
 @license        GPL3-or-later
+@description    Reduce line width and increase text size on Hacker News
+@author         Adam Fontenot (https://github.com/afontenot)
 @preprocessor   default
-==/UserStyle */
+==/UserStyle== */
 
 @-moz-document domain("news.ycombinator.com") {
 body, .comment {
