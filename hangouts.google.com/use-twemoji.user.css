@@ -1,13 +1,13 @@
 /* ==UserStyle==
-@name         Google - Fixed search bar
-@namespace    https://openusercss.org/theme/5a2f049bba666f0b00b9c82b
-@homepageURL  https://openusercss.org/theme/5a2f049bba666f0b00b9c82b
-@version      1.0.0
-@license      Other
-@description  This theme makes the navigation bar on top of Google searches stick to the top.
-@author       DecentM (https://openusercss.org/profile/5a2f0361ba666f0b00b9c827)
-@preprocessor uso
-==/UserStyle== */
+@name           google hangouts - twemoji
+@namespace      github.com/openstyles/stylus
+@version        1.0.0
+@homepageURL    https://github.com/afontenot/usercss
+@license        GPL3-or-later
+@description    Use Twemoji font on Google Hangouts
+@author         Adam Fontenot (https://github.com/afontenot)
+@preprocessor   default
+==/UserStyle */
 
 @-moz-document domain("hangouts.google.com") {
 span[data-emo] > div {
