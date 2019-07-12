@@ -1,5 +1,0 @@
-@-moz-document domain("twitch.tv") {
-div.player-video > video {
-    transform: scale(1, -1);
-}
-}

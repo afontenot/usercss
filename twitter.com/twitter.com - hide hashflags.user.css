@@ -1,0 +1,16 @@
+/* ==UserStyle==
+@name           twitter.com - hide hashflags
+@namespace      github.com/openstyles/stylus
+@version        1.0
+@homepageURL    https://github.com/afontenot/usercss
+@updateURL      https://raw.githubusercontent.com/afontenot/usercss/master/twitter.com - hide hashflags/twitter.com - hide hashflags.user.css
+@license        GPL3-or-later
+@preprocessor   default
+==/UserStyle */
+
+
+@-moz-document domain("twitter.com") {
+.twitter-hashflag, .trend-item .Emoji {
+    display: none;
+}
+}

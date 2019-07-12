@@ -1,0 +1,16 @@
+/* ==UserStyle==
+@name           twitter.com - block prolific retweeters
+@namespace      github.com/openstyles/stylus
+@version        1.0
+@homepageURL    https://github.com/afontenot/usercss
+@updateURL      https://raw.githubusercontent.com/afontenot/usercss/master/twitter.com - block prolific retweeters/twitter.com - block prolific retweeters.user.css
+@license        GPL3-or-later
+@preprocessor   default
+==/UserStyle */
+
+
+@-moz-document domain("twitter.com") {
+div[data-retweeter="BlackSocialists"] {
+    display: none !important;
+}
+}

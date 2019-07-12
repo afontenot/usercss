@@ -1,0 +1,16 @@
+/* ==UserStyle==
+@name           twitch.tv - zoom rifftrax videos
+@namespace      github.com/openstyles/stylus
+@version        1.0
+@homepageURL    https://github.com/afontenot/usercss
+@updateURL      https://raw.githubusercontent.com/afontenot/usercss/master/twitch.tv - zoom rifftrax videos/twitch.tv - zoom rifftrax videos.user.css
+@license        GPL3-or-later
+@preprocessor   default
+==/UserStyle */
+
+
+@-moz-document url-prefix("https://www.twitch.tv/rifftrax") {
+div.player-video > video {
+    transform: scale(1.2);
+}
+}

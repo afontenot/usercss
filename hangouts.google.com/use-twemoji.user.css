@@ -1,3 +1,13 @@
+/* ==UserStyle==
+@name           google hangouts - twemoji
+@namespace      github.com/openstyles/stylus
+@version        1.0
+@homepageURL    https://github.com/afontenot/usercss
+@updateURL      https://raw.githubusercontent.com/afontenot/usercss/master/google hangouts - twemoji instead of native/google hangouts - twemoji.user.css
+@license        GPL3-or-later
+@preprocessor   default
+==/UserStyle */
+
 @-moz-document domain("hangouts.google.com") {
 span[data-emo] > div {
     display: none !important;
