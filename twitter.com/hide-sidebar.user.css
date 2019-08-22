@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           twitter.com - hide sidebar
 @namespace      github.com/afontenot/usercss/twitter-3
-@version        1.0.0
+@version        1.0.1
 @description    Hide the annoying sidebar that takes up half the screen
 @homepageURL    https://github.com/afontenot/usercss
 @license        GPL3-or-later
@@ -14,7 +14,7 @@
         display: none !important;
     }
 
-    .r-obd0qt {
-        align-items: auto !important;
+    header.r-obd0qt {
+        align-items: normal !important;
     }
 }
