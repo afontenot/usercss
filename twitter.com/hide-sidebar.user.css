@@ -13,4 +13,8 @@
     div[data-testid="sidebarColumn"] {
         display: none !important;
     }
+
+    .r-obd0qt {
+        align-items: auto !important;
+    }
 }
