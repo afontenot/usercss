@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           twitter.com - hide hashflags
 @namespace      github.com/openstyles/stylus
-@version        1.0.0
+@version        1.0.1
 @homepageURL    https://github.com/afontenot/usercss
 @license        GPL3-or-later
 @description    Hide emoji next to hashtags (hashflags) on Twitter
@@ -11,7 +11,7 @@
 
 
 @-moz-document domain("twitter.com") {
-.twitter-hashflag, .trend-item .Emoji {
+.r-18u37iz > a > span {
     display: none;
 }
 }
